@@ -4,7 +4,7 @@ Este repositório é destinado ao compartilhamento dos resultados experimentais 
 ## Metodologia
 Os passos do sistema desenvolvido podem ser visualizados na figura a seguir.
 
-![methodology](https://github.com/esgario/chlestimator/images/methodology.png)
+![methodology](https://github.com/esgario/chlestimator/blob/master/images/methodology.png)
 
 
 #### Métricas
