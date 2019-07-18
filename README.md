@@ -7,7 +7,7 @@ Os passos do sistema desenvolvido podem ser visualizados na figura a seguir.
 ![methodology](https://github.com/esgario/chlestimator/blob/master/images/methodology.png)
 
 
-#### Métricas
+### Métricas
 
 Foram utilizadas um total de 27 métricas. Abaixo estão listadas todas as métricas utilizadas.
 
@@ -39,6 +39,26 @@ Foram utilizadas um total de 27 métricas. Abaixo estão listadas todas as métr
 * NGRDI = (NG-NR)/(NG+NR)
 * DGCI = (Hue−60)/60 + (1−Sat) + (1−Brig)/3
 
+### Dataset
+
+Este dataset visa estimar o conteúdo de clorofila presente em folhas de mamão, por meio de fotos de smartphone. As medidas de referência apresentadas nesse dataset foram obtidas utilizando o dispostivo SPAD-502. Uma vez que o SPAD-502 é um equipamento confiável e amplamente utilizado na prática para coletar valores aproximados do conteúdo de clorofila em campo.
+
+O desenvolvimento deste dataset foi estimulado pela seguinte hipótese:
+
+     "Imagens de cameras RGB convencionais são suficientes para fazer uma estimativa precisa do conteúdo de clorofila em folhas de plantas."
+
+#### Detalhes
+Smartphone utilizado: Xiaomi Redmi S2
+Total de imagens: 300
+Tamanho das imagens: 1024x1024
+
+Mamão golden:
+	- 75 fotos com fundo natural
+	- 75 fotos com fundo branco
+
+Mamão tainung:
+	- 75 fotos com fundo natural
+	- 75 fotos com fundo branco
 
 ## Resultados experimentais
 
