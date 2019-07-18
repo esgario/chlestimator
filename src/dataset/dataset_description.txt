@@ -1,0 +1,36 @@
+_________________________________________________________________
+
+ Estimation of Papaya Chlorophyll Content (EPCC) Dataset
+_________________________________________________________________
+
+ - DESCRIPTION:
+
+ This dataset aims to estimate the chlorophyll content present in
+ papaya leaves by means of common smartphone photos. The reference
+ measurements present in the dataset were obtained with the SPAD-502
+ device. Since the SPAD-502 is a reliable and widely used equipment
+ in practice to collect approximate values of chlorophyll content in
+ the field.
+
+ So the development of this dataset was stimulated by the following
+ hypothesis:
+
+     "Images of conventional RGB cameras are sufficient to make an
+      estimate of the chlorophyll content in leaves of plants."
+
+ - IMAGE DETAILS:
+
+   Smartphone used: Xiaomi Redmi S2
+
+   Total of images: 300
+
+   image size: 1024x1024
+   color: RGB 24 bits
+
+   Golden Papaya:
+    - 75 photos with white background
+    - 75 photos with normal background
+
+   Tainung Papaya:
+    - 75 photos with white background
+    - 75 photos with normal background 
