@@ -46,8 +46,8 @@ Os resultados de cada métrica foram comparados com os valores de clorofila medi
 
 ### Imagens com fundo natural
 
-![natural-bg-results](https://github.com/esgario/chlestimator/images/natural-bg-results.png)
+![natural-bg-results](https://github.com/esgario/chlestimator/blob/master/images/natural-bg-results.png)
 
 ### Imagens com fundo branco
 
-![white-bg-results](https://github.com/esgario/chlestimator/images/white-bg-results.png)
+![white-bg-results](https://github.com/esgario/chlestimator/blob/master/images/white-bg-results.png)
