@@ -91,3 +91,6 @@ def plot_multiple_indices(
 
             else:
                 ax[i, j].axis("off")
+
+    # save results
+    plt.savefig("results.png", dpi=300, bbox_inches="tight")
